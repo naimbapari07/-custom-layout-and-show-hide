@@ -1,0 +1,24 @@
+.header, .hero, .body, .bar, .six{
+ background-color: teal;
+ margin-bottom: 10px;
+}
+.box{
+  margin: 10px 0;
+  min-height: 70px;
+  background-color: red;
+  text-align: center;
+   
+}
+.lime{
+  background-color: lime;
+  
+}
+.green{
+  background-color: green;
+   
+}
+.black{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
